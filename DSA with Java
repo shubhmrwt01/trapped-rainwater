@@ -1,5 +1,6 @@
+import java.util.*;
 public class DSA with Java{
-    
+
     // PROBLEM NO.1
 
     // Problem on trapped Rainwater
@@ -30,5 +31,4 @@ public class DSA with Java{
         int height[]={4,2,0,6,3,2,5};
         System.out.println("Total trapped rainwater is:"+ Problem1(height));
     }
-
 }
